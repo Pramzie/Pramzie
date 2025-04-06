@@ -1,6 +1,7 @@
 
-# Hi, I’m Sagnik Pramanik<br><br>
-🎓 Undergrad student with a passion for merging tech, creativity, and impact<br>🔬 Currently diving into:<br><br>🧠 Artificial Intelligence & Machine Learning<br><br>👁️‍🗨️ Computer Vision<br><br>🧬 Bioinformatics & Computational Biology
+# ✨Hi, I’m Sagnik Pramanik<br><br>
+🎓 A sophomore pursuing B.Tech in Electronics and Computer Science Engineering!<br>
+🎯Aspiring innovator exploring the intersection of tech, creativity, and social impact<br>🔬 Currently diving into:<br><br>🧠 Artificial Intelligence & Machine Learning<br><br>👁️‍🗨️ Computer Vision<br><br>🧬 Bioinformatics & Computational Biology
 
 
 ## 🌐 Socials:
