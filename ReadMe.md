@@ -1,5 +1,7 @@
 
 # ✨Hi, I’m Sagnik Pramanik<br><br>
+![ChatGPT Image Apr 7, 2025, 12_41_43 AM](https://github.com/user-attachments/assets/49bc924a-804a-4f1e-a25b-7dc8657df8e7)
+
 🎓 A sophomore pursuing B.Tech in Electronics and Computer Science Engineering!<br>
 🎯Aspiring innovator exploring the intersection of tech, creativity, and social impact<br>🔬 Currently diving into:<br><br>🧠 Artificial Intelligence & Machine Learning<br><br>👁️‍🗨️ Computer Vision<br><br>🧬 Bioinformatics & Computational Biology
 
