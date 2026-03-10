@@ -5,7 +5,7 @@
 </p>
 
 
-🎓 A sophomore pursuing B.Tech in Electronics and Computer Science Engineering!<br>
+🎓 A curious kid pursuing B.Tech in Electronics and Computer Science Engineering!<br>
 🎯Aspiring innovator exploring the intersection of tech, creativity, and social impact<br>🔬 Currently diving into:<br><br>🧠 Artificial Intelligence & Machine Learning<br><br>👁️‍🗨️ Computer Vision<br><br>🧬 Bioinformatics & Computational Biology
 
 
